@@ -1,0 +1,1 @@
+This Arduino sketch is developed using the Arduino Integrated Development Environment (IDE) and written in the C/C++ programming language. It forms the basis of a smart home automation system, leveraging Arduino hardware and sensors to automate household tasks based on environmental cues such as motion, light levels, and distance.
